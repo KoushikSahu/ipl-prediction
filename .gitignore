@@ -3,3 +3,8 @@ submission/
 
 # python related
 __pycache__/
+.ipynb_checkpoints/
+
+# virtual environment files
+env/
+
